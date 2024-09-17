@@ -20,7 +20,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/aquasofts/Count
 
 **浏览网页**
 
-   点击 [这里](https://countdown-6uv.pages.dev) 进行预览。
+   点击 [这里](https://cd.mihoyo.sbs) 进行预览。
 
 ## 技术栈
 
