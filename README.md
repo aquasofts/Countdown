@@ -10,14 +10,15 @@
 
 ## 使用方法
 
-1. **克隆项目**
+**使用nginx进行部署**
+
+一键部署脚本：
 
    ```
-   bash
-   git clone git@github.com:aquasofts/Countdown.git
+wget -N --no-check-certificate https://raw.githubusercontent.com/aquasofts/Countdown/main/sh/Countdown.sh && chmod +x Countdown.sh && ./Countdown.sh
    ```
 
-3. **浏览网页**
+**浏览网页**
 
    点击 [这里](https://countdown-6uv.pages.dev) 进行预览。
 
