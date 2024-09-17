@@ -12,13 +12,14 @@
 
 1. **克隆项目**
 
-   ```bash
-   git clone https://github.com/xiaoyuban1213/gkdjs.git
+   ```
+   bash
+   git clone git@github.com:aquasofts/Countdown.git
    ```
 
 3. **浏览网页**
 
-   点击 [这里](https://xiaoyuban1213.github.io/gkdjs/) 进行预览。
+   点击 [这里](https://countdown-6uv.pages.dev) 进行预览。
 
 ## 技术栈
 
